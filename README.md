@@ -1,2 +1,1 @@
-# Hello-world-
-Simple python code for Hello world
+print("Hello World!")
